@@ -4,7 +4,7 @@
   import DischargingCar from "../../../asset/svg/dischargingCar.svg";
 
   import Charging from "../../../asset/svg/miniCharging.svg";
-  import Discharging from "../../../asset/svg/miniDischarging.svg";
+  import Test from "../../../asset/svg/test.svg";
 </script>
 
 <div
@@ -22,7 +22,7 @@
           <p class="text-base font-normal text-zinc-500">충전 60</p>
         </div>
         <div class="flex flex-row">
-          <img src={Discharging} alt="" class="mr-2 w-[21px] h-[24.6px]" />
+          <img src={Test} alt="" class="mr-2 w-[21px] h-[24.6px]" />
           <p class="text-base font-normal text-zinc-500">방전 40</p>
         </div>
       </div>
